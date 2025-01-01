@@ -7,6 +7,9 @@
 
 <div id="about-me" align="center">
   <p>
-    A versatile developer <br> <br>
+    A versatile developer
+  </p>
+  <p>
+    See ya! 👋
   </p>
 </div>
